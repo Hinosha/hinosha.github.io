@@ -24,7 +24,7 @@ This portfolio shares:
 
 ## 📫 Contact
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hinosha-niyas-2b50ba9b/)  <!-- Replace with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/hinosha-niyas-2b50ba9b/)  <!-- Replace with your LinkedIn URL -->
 - [Email](hinosha_niyas@yahoo.co.uk) <!-- Replace with your email -->
 
 Thanks for visiting!
